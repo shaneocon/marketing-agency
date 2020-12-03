@@ -2,6 +2,7 @@
 ## Shane O'Connell
 ## Unit One HW - due: 12/3/2020
 ## Project Status: Complete
+### https://shaneocon.github.io/marketing-agency/
 
 ### __Description__
     Our assignment this week was to "clean up" the code of a client named HoriSEOn SEO Marketing. While their homepage was clean, the code building that page could use a "light dusting," so to speak.  

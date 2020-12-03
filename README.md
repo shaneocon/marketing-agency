@@ -1,9 +1,15 @@
 # __HoriSEOn Marketing Agency__
+## Shane O'Connell
 ## Unit One HW - due: 12/3/2020
 ## Project Status: Complete
 
-### __Assignment__
+### __Description__
     Our assignment this week was to "clean up" the code of a client named HoriSEOn SEO Marketing. While their homepage was clean, the code building that page could use a "light dusting," so to speak.  
+
+
+![SEO-Team](assets/images/screenshot-team.png)
+
+![SEO-Homepage](assets/images/screenshot2.png)
 
 ### __Client Request__
     As a marketing agency, 
@@ -24,5 +30,27 @@
 
 ### __Course of Action__
     Focusing on accessibility tags and semantic HTML structure. 
+
+  
+``` <body>
+        <header>
+            <h1>Hori<span class="seo">seo</span>n</h1>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="#search-engine-optimization">Search Engine Optimization</a>
+                    </li>
+                    <li>
+                        <a href="#online-reputation-management">Online Reputation Management</a>
+                    </li>
+                    <li>
+                        <a href="#social-media-marketing">Social Media Marketing</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+```
+    
+
 
 

@@ -6,6 +6,7 @@
 
 ### __Description__
     Our assignment this week was to "clean up" the code of a client named HoriSEOn SEO Marketing. While their homepage was clean, the code building that page could use a "light dusting," so to speak.  
+    
 
 
 ![SEO-Team](assets/images/screenshot-team.png)
